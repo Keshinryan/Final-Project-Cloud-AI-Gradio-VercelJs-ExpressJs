@@ -99,4 +99,10 @@ This AI Deployment is integrated into different platforms through separate repos
 
 
 ---
+
+## 🖋 License
+
+This project is licensed under the MIT License.
+
+
 Final Project — Informatics Engineering — 2025
