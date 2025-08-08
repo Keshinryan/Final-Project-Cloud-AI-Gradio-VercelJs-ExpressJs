@@ -17,19 +17,6 @@ The app allows users to upload animal images and receive classification results 
 It uses a deep learning CNN model trained for multi-output, multi-class image classification.
 
 ---
-## 🚀 Other Repositories
-
-This AI Deployment is integrated into different platforms through separate repositories:
-
-- **Model Training**  
-  [Final-Project-Model-Training](https://github.com/Keshinryan/Final-Project-Model-Training)
-
-- **Cloud Deployment (FastAPI)**  
-  [Final-Project-Cloud-AI-FastAPI](https://github.com/Keshinryan/Final-Project-Cloud-AI-FastAPI)
-
-- **Mobile Application**  
-  [Final-Project-Mobile-TaxoClassify](https://github.com/Keshinryan/Final-Project-Mobile-TaxoClassify)
-
 
 ## 🌐 Project Structure
 
@@ -96,6 +83,20 @@ vercel deploy --prod
 ## 📚 Use Case
 
 Designed for mobile integration as cloud inference alternative. Useful when direct Hugging Face calls are restricted or additional backend logic is required. It promotes public understanding of animal taxonomy and conservation.
+
+## 🔗 Related GitHub Repositories
+
+This AI Deployment is integrated into different platforms through separate repositories:
+
+- **Model Training**  
+  [Final-Project-Model-Training](https://github.com/Keshinryan/Final-Project-Model-Training)
+
+- **Cloud Deployment (FastAPI)**  
+  [Final-Project-Cloud-AI-FastAPI](https://github.com/Keshinryan/Final-Project-Cloud-AI-FastAPI)
+
+- **Mobile Application**  
+  [Final-Project-Mobile-TaxoClassify](https://github.com/Keshinryan/Final-Project-Mobile-TaxoClassify)
+
 
 ---
 Final Project — Informatics Engineering — 2025
