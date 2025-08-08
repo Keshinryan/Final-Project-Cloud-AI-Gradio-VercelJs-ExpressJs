@@ -17,6 +17,19 @@ The app allows users to upload animal images and receive classification results 
 It uses a deep learning CNN model trained for multi-output, multi-class image classification.
 
 ---
+## 🚀 Other Repositories
+
+This AI Deployment is integrated into different platforms through separate repositories:
+
+- **Model Training**  
+  [Final-Project-Model-Training](https://github.com/Keshinryan/Final-Project-Model-Training)
+
+- **Cloud Deployment (FastAPI)**  
+  [Final-Project-Cloud-AI-FastAPI](https://github.com/Keshinryan/Final-Project-Cloud-AI-FastAPI)
+
+- **Mobile Application**  
+  [Final-Project-Mobile-TaxoClassify](https://github.com/Keshinryan/Final-Project-Mobile-TaxoClassify)
+
 
 ## 🌐 Project Structure
 
